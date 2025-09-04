@@ -1,4 +1,4 @@
-# Assignment 2: Real-time Stock Monitoring System
+# Real-time Stock Monitoring System
 
 ## Course Information
 
