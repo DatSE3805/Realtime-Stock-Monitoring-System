@@ -55,16 +55,16 @@ Initial Code/
  │   │   │   ├── Main.java
  │   │   │   ├── Stock.java
  │   │   │   ├── StockPrice.java
- │   │   │   ├── StockFeeder.java               ❌ Students must implement
+ │   │   │   ├── StockFeeder.java               ❌ must implement
  │   │   │   ├── StockViewer.java
- │   │   │   ├── StockAlertView.java            ❌ Students must implement
- │   │   │   ├── StockRealtimePriceView.java    ❌ Students must implement
+ │   │   │   ├── StockAlertView.java            ❌ must implement
+ │   │   │   ├── StockRealtimePriceView.java    ❌ must implement
  │   │   │   ├── StockTickerView.java
  │   │   │   ├── Logger.java
  │   │   │   ├── PriceFetchManager.java
  │   │   │   ├── PriceFetcher.java
  │   │   │   ├── HosePriceFetchLib.java
- │   │   │   ├── HoseAdapter.java               ❌ Students must implement
+ │   │   │   ├── HoseAdapter.java               ❌ must implement
  │   │   │   ├── HoseData.java
  │   │   │   ├── HnxPriceFetchLib.java
  │   │   │   ├── HnxAdapter.java
